@@ -52,37 +52,6 @@ I wont explain features that explain themselves
 - Blaccuracy - accuracy but for matches with **only** aniblacklist
 
 
-## Changelog
-
-## v2.3
-
-- buttons fixed
-- less laggy
-- removed christmas event
-
-## v2.3.1
-
-- minor changes
-- blessing support
-
-## v2.3.2
-
-- minor changes
-- fix retardation
-
-## TODO
-
-- support for bots similar to karuta (like SOFI, Mudae, ~~Tofu~~); this might never happen/take a long time to be implemented
-- improve print numbers
-- improve ocr
-- make it less buggy (especially tofu)
-- first run setup
-
-## Credits
-
-- [RiccardoLunardi](https://github.com/riccardolunardi/KarutaBotHack) for the code written in ocr.py
-- Vu for the autofarm code
-
 ## Disclaimer
 
 This is for educational purposes only blah blah blah, I don't condone breaking discord's TOS or karuta's, it is not my fault if you get banned from karuta or discord.
@@ -92,6 +61,6 @@ Also dont be that guy who clones this repo and then updates config.json with his
 ## Contact Me
 This is my current discord tag, and only public way to contact me (besides github)
 
-Discord: ```NoMeansNo#5750```
+Discord: Thegrogster_
 
-Just Please use your brain when communicating, [don't start by saying hi and waiting for a response](https://nohello.net)
+Name of Original creator NoMeansNo#5750 all credits to him 💙
