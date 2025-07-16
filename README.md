@@ -1,5 +1,7 @@
 # KarutaSniper
 A bot to automate collecting cards for the discord game Karuta
+ALL CREDITS GOTO ORIGINAL CREATOR I JUST REFRESHED IT AND FIXED BUGS
+----------------------------------------------------------------------
 
 # Stuff in readme
 
