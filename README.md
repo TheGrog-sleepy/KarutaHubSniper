@@ -16,7 +16,7 @@ ALL CREDITS GOTO ORIGINAL CREATOR I JUST REFRESHED IT AND FIXED BUGS
 9. [Contact Me](#contact-me)
 
 ## Known Issues
-
+- Ill work to fix these soon
 - print numbers and autofarm might be buggy
 - i fucked detection up; it might detect the same a few times
 
